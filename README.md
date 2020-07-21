@@ -24,7 +24,8 @@ researchpapers
 ├─ README.md
 ├─ SoftEng
 │  ├─ Accelerometric Data Processing - Poster.pdf
-│  └─ Accelerometric Data Processing - Proposal.pdf
+│  ├─ Accelerometric Data Processing - Proposal.pdf
+|  └─ IRP-W2020-ResearchPaperFull.pdf
 └─ Statistics
    ├─ Statistics Paper Part 1.pdf
    ├─ Statistics Paper Part 2.pdf
